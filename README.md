@@ -10,6 +10,6 @@ The purpose of this documentation repository is to provide a comprehensive overv
 
 Feedback on the documentation content, structure, or clarity is highly appreciated. Contributions such as corrections, additional information, or enhancements to existing content are welcome through pull requests.
 
-This documentation repository is licensed under [LICENSE_NAME] License. See the [LICENSE](LICENSE) file for more details.
+This documentation repository is licensed under License. See the [LICENSE](LICENSE) file for more details.
 
 Feel free to explore the documentation and reach out with any questions or suggestions. Thank you for your interest!
