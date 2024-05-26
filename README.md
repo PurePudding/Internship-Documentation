@@ -1,5 +1,7 @@
 **Internship School Project Documentation**
 
+26 - 05 - 24
+
 ---
 
 This repository serves as documentation for my school internship project. Here, you will find detailed information, code snippets, diagrams, and any relevant resources related to the tasks and projects I undertook during my internship.
