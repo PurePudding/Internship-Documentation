@@ -17,7 +17,5 @@ Feel free to explore the documentation and reach out with any questions or sugge
 ---
 
 PurePudding
-
 awusetin@gmail.com
-
 26 - 05 - 24
